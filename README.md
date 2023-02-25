@@ -18,7 +18,8 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=onestar">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=discord#gh-dark-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=flat#gh-light-mode-only">
 </div>
 
 <hr />
