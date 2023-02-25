@@ -1,10 +1,9 @@
 ## Hey 👋, I'm Fateh!
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=fatehak&label=visitors" align="right">
-   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Mail-D14836?style=&logo=gmail&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Behance-1769ff?style=&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
+   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
 ### ⚡️ A Few Quick Facts
