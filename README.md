@@ -44,6 +44,8 @@
 - [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publish-with-releaseit/)
 <!-- BLOG-POST-LIST:END -->
 
+View all [posts](https://fatehak.dev/blog/) and [notes](https://fatehak.dev/notes/).
+
 ### 📈 Stats
 <div align="center">
   <a href="https://github.com/FatehAK#gh-dark-mode-only">
