@@ -9,7 +9,13 @@
 
 -
 
-### 🚩 Top Repositories
+### ⚒️ Tech Stack
+
+
+
+
+
+### ⭐ Top Repositories
 
 <div align="center">
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer#gh-dark-mode-only">
@@ -65,3 +71,5 @@ View all [posts](https://fatehak.dev/blog/) and [notes](https://fatehak.dev/note
     <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=flat&rank=-C,-B#gh-light-mode-only">
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=fatehak&label=views" align="right">
