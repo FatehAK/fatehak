@@ -19,15 +19,15 @@
 
 <div align="center">
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=519bf6&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/genzo-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=519bf6&border_radius=6" />
   </a>
    <a href="https://github.com/fatehak/fatehak.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=519bf6&border_radius=6" />
   <a href="https://github.com/fatehak/fatehak.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=519bf6&border_radius=6" />
   </a>
 </div>
 
