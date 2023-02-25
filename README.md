@@ -19,10 +19,10 @@
 
 <div align="center">
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=444c56&title_color=539bf5&text_color=768390" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
   </a>
   <a href="https://github.com/fatehak/genzo-cli">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=444c56&title_color=539bf5&text_color=768390" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=539bf5" />
   </a>
 </div>
 
