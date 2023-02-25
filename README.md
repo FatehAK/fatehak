@@ -1,9 +1,9 @@
-## Hey 👋, I'm Fateh!
+## Hi 👋, I'm Fateh!
 
 <div>
-   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-   <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge"></a>
+   <a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
 ### ⚡️ A Few Quick Facts
@@ -15,6 +15,8 @@
 - [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
 - [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publish-with-releaseit/)
 <!-- BLOG-POST-LIST:END -->
+
+More on my [blog](https://fatehak.dev/blog/)
 
 ### 📈 Stats
 <div align="center">
