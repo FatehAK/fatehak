@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/FatehAK#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=nord&rank=-C,-B#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=onestar&rank=-C,-B#gh-dark-mode-only">
   </a>
   <a href="https://github.com/FatehAK#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=flat&rank=-C,-B#gh-light-mode-only">
