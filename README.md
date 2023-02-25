@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-# 📕 Recent posts
+## 📕 Recent posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<hr />
