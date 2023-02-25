@@ -1,0 +1,18 @@
+name: Get latest posts
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://fatehak.dev/rss.xml'
