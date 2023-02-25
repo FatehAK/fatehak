@@ -1,10 +1,10 @@
-## Hi 👋, I'm Fateh!
-
-<div>
-  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge"></a>
-   <a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
+<div align="center">
+  <h2>Hi 👋 I'm Fateh!</h2>
 </div>
+
+<a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/fateh_ak_"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"></a>
 
 ### ⚡️ A Few Quick Facts
 
