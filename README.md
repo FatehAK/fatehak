@@ -17,9 +17,12 @@
     <img src="https://github.com/fatehak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
   </a>
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=2&column=3&margin-w=10&margin-h=15&no-frame=true&no-bg=true&theme=onestar">
+</div>
 
 <hr />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatehak&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=fatehak&label=Hits">
 </div>
