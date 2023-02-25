@@ -1,5 +1,9 @@
 ## Hey 👋, I'm Fateh!
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=fatehak&label=visitors">
+</div>
+
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
@@ -24,10 +28,4 @@
   <a href="https://github.com/FatehAK#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=fatehak&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=flat&rank=-C,-B#gh-light-mode-only">
   </a>
-</div>
-
-<hr />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatehak&label=Hits">
 </div>
