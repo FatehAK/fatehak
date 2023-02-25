@@ -15,7 +15,16 @@
 - [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publish-with-releaseit/)
 <!-- BLOG-POST-LIST:END -->
 
-View all posts on my [blog](https://fatehak.dev/blog/)
+### 📕 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/fatehak/vite-plugin-image-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=codeSTACKr&username=fatehak&repo=vite-plugin-image-optimizer" />
+  </a>
+  <a href="https://github.com/fatehak/genzo-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=codeSTACKr&username=fatehak&repo=genzo-cli" />
+  </a>
+</div>
 
 ### 📈 Stats
 <div align="center">
