@@ -9,7 +9,7 @@
 
 -
 
-### 🚀 Top Repositories
+### 🚩 Top Repositories
 
 <div align="center">
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer#gh-dark-mode-only">
