@@ -9,12 +9,6 @@
 
 -
 
-### 📕 Recent Posts
-<!-- BLOG-POST-LIST:START -->
-- [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
-- [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publish-with-releaseit/)
-<!-- BLOG-POST-LIST:END -->
-
 ### ⭐ Top Repositories
 
 <div align="center">
@@ -43,6 +37,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0969da&border_radius=6" />
   </a>
 </div>
+
+### 📕 Recent Posts
+<!-- BLOG-POST-LIST:START -->
+- [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
+- [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publish-with-releaseit/)
+<!-- BLOG-POST-LIST:END -->
 
 ### 📈 Stats
 <div align="center">
