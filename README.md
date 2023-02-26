@@ -11,8 +11,13 @@
 
 ### ⚡️ A Few Quick Facts
 
-- Currently residing in Chennai, India
-- Most recent obsession - coffee, dev tooling and bundlers!
+- 🏠 Currently residing in **Chennai, India**.
+- 💬 Ask me about JavaScript, React and Web performance.
+- 🌱 I’m currently learning Cloud Infrastructure.
+- ✨ My latest creation is [fatehak.dev](https://fatehak.dev).
+- 🫶🏻 Most recent obsession: coffee, dev tooling and bundlers!
+- 📫 To reach me: `hi[at]fatehak.dev`
+- 🤪 Fun Fact: Love 🐈's, gaming 🎮 and pong 🏓
 
 ### ⚙️ Tech Stack
 
@@ -117,10 +122,10 @@
       <br>Mongo
     </td>
     <td align="center" width="86">
-      <a href="https://www.linux.org/">
-        <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="icon" width="35" height="35" />
+      <a href="https://www.prisma.io/">
+        <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="icon" width="35" height="35" />
       </a>
-      <br>Linux
+      <br>Prisma
     </td>
     <td align="center" width="86">
       <a href="https://storybook.js.org/">
