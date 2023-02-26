@@ -6,11 +6,12 @@
 </div>
 
 <div align="center">
-  <h4>Welcome! I'm a Front-End engineer from <strong>Chennai, India</strong> with a passion for crafting performant Web apps.</h4>
+  <h4>Welcome! I'm a Front-End engineer with a passion for crafting clean and performant Web apps.</h4>
 </div>
 
 ### ⚡️ A Few Quick Facts
 
+- Currently residing in Chennai, India
 - Most recent obsession - coffee, dev tooling and bundlers!
 
 ### ⚙️ Tech Stack
