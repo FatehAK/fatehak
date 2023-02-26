@@ -5,7 +5,7 @@
   <a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
 </div>
 
-
+<p>&nbsp;</p>
 Welcome! I'm a Front-End engineer with a passion for crafting clean and performant Web applications.
 
 ### ⚡️ A Few Quick Facts
