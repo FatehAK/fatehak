@@ -9,8 +9,41 @@
 
 -
 
-### ⚒️ Tech Stack
+### ⚙️ Tech Stack
+> Tools and technologies that I have worked with
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="icon" width="55" height="55" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/css-3.svg" width="55" height="55" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="96" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/react.svg" alt="icon" width="55" height="55" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
 
 
