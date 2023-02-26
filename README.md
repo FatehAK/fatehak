@@ -46,9 +46,7 @@
       <img src="https://cdn.svgporn.com/logos/jest.svg" alt="icon" width="35" height="35" />
       <br>Jest
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="86">
+      <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
@@ -56,6 +54,9 @@
       <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="icon" width="35" height="35" />
       <br>Cloudflare
     </td>
+  </tr>
+  <tr>
+
   </tr>
 </table>
 
