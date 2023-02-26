@@ -191,8 +191,8 @@ View all [posts](https://fatehak.dev/blog/) and [notes](https://fatehak.dev/note
 ### 📈 Stats
 <div align="center">
   <a href="https://github.com/FatehAK#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" />
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" />
+    <img src="https://github.com/fatehak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/fatehak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/FatehAK#gh-light-mode-only">
     <img src="https://github.com/fatehak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
