@@ -36,8 +36,11 @@
       <br />Next.js
     </td>
     <td align="center" width="86">
-      <a href="https://astro.build/">
+      <a href="https://astro.build/#gh-dark-mode-only">
         <img src="https://astro.build/assets/press/logomark-dark.svg" alt="icon" width="35" height="35" />
+      </a>
+      <a href="https://astro.build/#gh-light-mode-only">
+        <img src="https://astro.build/assets/press/logomark-light.svg" alt="icon" width="35" height="35" />
       </a>
       <br />Astro
     </td>
