@@ -14,31 +14,31 @@
 
 <table>
   <tr>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="icon" width="35" height="35" />
       <br>HTML5
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/css-3.svg" width="35" height="35" alt="css" />
       <br>CSS3
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />
       <br>JavaScript
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/react.svg" alt="icon" width="35" height="35" />
       <br />React
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="icon" width="35" height="35" />
       <br>Tailwind
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
-    <td align="center" width="66">
+    <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
@@ -64,16 +64,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&bg_color=0d1117&icon_color=519bf6&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0669da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/genzo-cli#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0669da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/fatehak.dev#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0669da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/dev-templates#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0669da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
   </a>
 </div>
 
