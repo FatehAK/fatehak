@@ -205,4 +205,5 @@ View all [posts](https://fatehak.dev/blog/) and [notes](https://fatehak.dev/note
   </a>
 </div>
 
+<p>&nbsp;</p>
 <img src="https://komarev.com/ghpvc/?username=fatehak&label=views" align="right">
