@@ -167,16 +167,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=595c62&title_color=c9d1d9&text_color=b5bcc4&icon_color=519bf6&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/vite-plugin-image-optimizer#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=vite-plugin-image-optimizer&border_color=d0d7de&title_color=32373a&text_color=57606a&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/genzo-cli#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=genzo-cli&border_color=d0d7de&title_color=32373a&text_color=57606a&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/fatehak.dev#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=fatehak.dev&border_color=d0d7de&title_color=32373a&text_color=57606a&icon_color=0869da&border_radius=6" />
   </a>
   <a href="https://github.com/fatehak/dev-templates#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=d0d7de&title_color=32373a&text_color=57606a&bg_color=ffffff&icon_color=0869da&border_radius=6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fatehak&repo=dev-templates&border_color=d0d7de&title_color=32373a&text_color=57606a&icon_color=0869da&border_radius=6" />
   </a>
 </div>
 
