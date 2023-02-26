@@ -7,7 +7,7 @@
 
 <p>&nbsp;</p>
 Welcome to my page!
-
+<p>&nbsp;</p>
 I'm a Front-End engineer from Chennai, India with a passion for crafting clean and performant Web applications.
 
 ### ⚡️ A Few Quick Facts
