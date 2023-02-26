@@ -6,12 +6,11 @@
 </div>
 
 <p>&nbsp;</p>
-Welcome! I'm a Front-End engineer with a passion for crafting clean and performant Web applications.
+Welcome to my page! I'm a Front-End engineer from Chennai, India with a passion for crafting clean and performant Web applications.
 
 ### ⚡️ A Few Quick Facts
 
-- Currently residing in **Chennai, India**
--
+- Most recent obsession - coffee, dev tooling and bundlers!
 
 ### ⚙️ Tech Stack
 
