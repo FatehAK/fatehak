@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h4>Welcome! I'm a Front-End engineer from <strong>Chennai, India</strong> with a passion for crafting performant Web applications.</h4>
+  <h4>Welcome! I'm a Front-End engineer from <strong>Chennai, India</strong> with a passion for crafting performant Web apps.</h4>
 </div>
 
 ### ⚡️ A Few Quick Facts
