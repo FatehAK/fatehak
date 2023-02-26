@@ -15,31 +15,31 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="icon" width="35" height="35" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/css-3.svg" width="55" height="55" alt="css" />
+      <img src="https://cdn.svgporn.com/logos/css-3.svg" width="35" height="35" alt="css" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="96" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="96" height="35" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/react.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.svgporn.com/logos/react.svg" alt="icon" width="35" height="35" />
       <br />React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="icon" width="35" height="35" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
   </tr>
