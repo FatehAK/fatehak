@@ -10,7 +10,6 @@
 -
 
 ### ⚙️ Tech Stack
-> My top technologies
 
 <table>
   <tr>
@@ -31,8 +30,16 @@
       <br />Node.js
     </td>
     <td align="center" width="86">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="35" height="35" />
+      <br />Redux
+    </td>
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="icon" width="35" height="35" />
       <br />Vite
+    </td>
+    <td align="center" width="86">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="35" height="35" />
+      <br />Webpack
     </td>
     <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/sass.svg" alt="icon" width="35" height="35" />
@@ -46,17 +53,48 @@
       <img src="https://cdn.svgporn.com/logos/jest.svg" alt="icon" width="35" height="35" />
       <br>Jest
     </td>
-      <td align="center" width="86">
+  </tr>
+  <tr>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="icon" width="35" height="35" />
+      <br>Shell
+    </td>
+    <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
-   <td align="center" width="86">
+    <td align="center" width="86">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/1024px-Half-Life_lambda_logo.svg.png" alt="icon" width="35" height="35" />
+        <br>AWS
+    </td>
+    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="icon" width="35" height="35" />
       <br>Cloudflare
     </td>
-  </tr>
-  <tr>
-
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/github-actions.svg" alt="icon" width="35" height="35" />
+      <br>Actions
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="icon" width="35" height="35" />
+      <br>Mongo
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="icon" width="35" height="35" />
+      <br>Linux
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/figma.svg" alt="icon" width="35" height="35" />
+      <br>Figma
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="icon" width="35" height="35" />
+      <br>Storybook
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/mdx.svg" alt="icon" width="35" height="35" />
+      <br>MDX
+    </td>
   </tr>
 </table>
 
