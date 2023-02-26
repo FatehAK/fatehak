@@ -10,49 +10,54 @@
 -
 
 ### ⚙️ Tech Stack
-> Tools and technologies that I have worked with
-
-Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-48899c.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+> My top technologies
 
 <table>
   <tr>
     <td align="center" width="86">
-      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="icon" width="35" height="35" />
-      <br>HTML5
-    </td>
-    <td align="center" width="86">
-      <img src="https://cdn.svgporn.com/logos/css-3.svg" width="35" height="35" alt="css" />
-      <br>CSS3
-    </td>
-    <td align="center" width="86">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/react.svg" alt="icon" width="35" height="35" />
       <br />React
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="icon" width="35" height="35" />
+      <br />Next.js
+    </td>
+    <td align="center" width="86">
+      <img src="https://astro.build/assets/press/logomark-dark.svg" alt="icon" width="35" height="35" />
+      <br />Astro
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="icon" width="35" height="35" />
+      <br />Node.js
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="icon" width="35" height="35" />
+      <br />Vite
+    </td>
+    <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/sass.svg" alt="icon" width="35" height="35" />
+      <br>SASS
     </td>
     <td align="center" width="86">
       <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="icon" width="35" height="35" />
       <br>Tailwind
     </td>
     <td align="center" width="86">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
-      <br>Docker
+      <img src="https://cdn.svgporn.com/logos/jest.svg" alt="icon" width="35" height="35" />
+      <br>Jest
     </td>
+  </tr>
+  <tr>
     <td align="center" width="86">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       <br>Docker
     </td>
+   <td align="center" width="86">
+      <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="icon" width="35" height="35" />
+      <br>Cloudflare
+    </td>
   </tr>
 </table>
-
-
-
 
 ### ⭐ Top Repositories
 
