@@ -7,7 +7,9 @@
 
 <p>&nbsp;</p>
 
-Welcome! I'm a Front-End engineer from **Chennai, India** with a passion for crafting clean and performant Web applications.
+<div align="center">
+  Welcome! I'm a Front-End engineer from **Chennai, India** with a passion for crafting clean and performant Web applications.
+</div>
 
 ### ⚡️ A Few Quick Facts
 
