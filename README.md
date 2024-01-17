@@ -11,7 +11,6 @@
 
 ### ⚡️ A Few Quick Facts
 
-- 🏠 Currently residing in **Chennai, India**.
 - 💬 Ask me about JavaScript, React and Web performance.
 - 🌱 I’m currently learning Cloud Infrastructure.
 - ✨ My latest creation is [fatehak.dev](https://fatehak.dev).
