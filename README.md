@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Cloud Infrastructure.
 - ✨ My latest creation is [fatehak.dev](https://fatehak.dev).
 - 🫶🏻 Most recent obsession: coffee, dev tooling and bundlers!
-- 📫 To reach me: `hi[at]fatehak.dev`
+- 📫 To reach me: `fa7ehak[at]gmail.com`
 - 🤪 Fun Fact: Love 🐈's, gaming 🎮 and pong 🏓
 
 ### ⚙️ Tech Stack
