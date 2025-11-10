@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Hi 👋 I'm Fateh</h1>
-  <a href="https://fatehak.dev"><img src="https://img.shields.io/badge/Website-c95657.svg?style=for-the-badge&logo=Help Scout&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.linkedin.com/in/fatehak/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+  <h1>Hi 👋 I'm Faz</h1>
+  <a href="https://fazk.dev"><img src="https://img.shields.io/badge/Website-c95657.svg?style=for-the-badge&logo=Help Scout&logoColor=white" alt="Website Badge"></a>
+  <a href="https://www.linkedin.com/in/faz07/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
 </div>
 
 <div align="center">
-  <h4>Welcome! I'm a Front-End engineer with a passion for crafting clean and performant Web apps.</h4>
+  <h4>Welcome! I'm a Software Engineer with a passion for crafting clean and performant Web apps.</h4>
 </div>
 
 ### ⚡️ A Few Quick Facts
 
-- 💬 Ask me about JavaScript, React and Web performance.
+- 💬 Ask me about JavaScript and Web performance.
 - 🌱 I’m currently learning Cloud Infrastructure.
-- ✨ My latest creation is [fatehak.dev](https://fatehak.dev).
+- ✨ My latest creation is [fazk.dev](https://fazk.dev).
 - 🫶🏻 Most recent obsession: coffee, dev tooling and bundlers!
-- 📫 To reach me: `fa7ehak[at]gmail.com`
-- 🤪 Fun Fact: Love 🐈's, gaming 🎮 and pong 🏓
+- 📫 To reach me: `fazk070[at]gmail.com`
+- 🤪 Fun Fact: Love cats 🐈, gaming 🎮 and pong 🏓
 
 ### ⚙️ Tech Stack
 
@@ -181,11 +181,11 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
-- [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publishing-with-releaseit/)
+- [Automate dependency updates with Renovate](https://fazk.dev/blog/automate-dependency-updates-with-renovate/)
+- [Hassle-free NPM package publishing with release-it](https://fazk.dev/blog/hassle-free-publishing-with-releaseit/)
 <!-- BLOG-POST-LIST:END -->
 
-View all [posts](https://fatehak.dev/blog/) and [notes](https://fatehak.dev/notes/) →
+View all [posts](https://fazk.dev/blog/) and [notes](https://fazk.dev/notes/) →
 
 ### 📈 Stats
 <div align="center">
