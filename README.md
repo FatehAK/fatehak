@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋 I'm Faz</h1>
-  <a href="https://fazk.dev"><img src="https://img.shields.io/badge/Website-c95657.svg?style=for-the-badge&logo=Help Scout&logoColor=white" alt="Website Badge"></a>
+  <a href="https://fazk.dev"><img src="https://img.shields.io/badge/website-c95657?style=for-the-badge&logo=Help%20Scout&logoColor=white" alt="Website Badge"></a>
   <a href="https://www.linkedin.com/in/faz07/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.behance.net/fateh_ak_/projects"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
 </div>
