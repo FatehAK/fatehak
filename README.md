@@ -181,8 +181,8 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate dependency updates with Renovate](https://fatehak.dev/blog/automate-dependency-updates-with-renovate/)
-- [Hassle-free NPM package publishing with release-it](https://fatehak.dev/blog/hassle-free-publishing-with-releaseit/)
+- [Automate dependency updates with Renovate](https://fazk.dev/blog/automate-dependency-updates-with-renovate/)
+- [Hassle-free NPM package publishing with release-it](https://fazk.dev/blog/hassle-free-publishing-with-releaseit/)
 <!-- BLOG-POST-LIST:END -->
 
 View all [posts](https://fazk.dev/blog/) and [notes](https://fazk.dev/notes/) →
