@@ -15,4 +15,4 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://fatehak.dev/rss.xml'
+          feed_list: 'https://fazk.dev/rss.xml'
